@@ -1,0 +1,192 @@
+MIT License
+
+Copyright (c) 2018 Graham Scott
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+
+Honbun uses the following third-party libraries:
+
+
+||-------------------------------------------------------------------------------||
+|| bitser
+||-------------------------------------------------------------------------------||
+
+Copyright (c) 2016, Robin Wellner
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+
+-------------------------------------------------------------------------------
+
+
+Honbun comes pre-packaged with the following fonts:
+
+
+||-------------------------------------------------------------------------------||
+|| Kaori Gel
+|| By: Shara Weber
+||-------------------------------------------------------------------------------||
+
+These fonts are 100% free for personal and commercial use.
+(http://www.sharasfonts.com/about-contact.html)
+
+
+
+||-------------------------------------------------------------------------------||
+|| ゆず ポップ A (Yuzu Pop A)
+||-------------------------------------------------------------------------------||
+
+===============================================================================
+| タイトル | ゆず ポップ A
+| カテゴリ | フォント(TrueTypeFont)
+| 動作環境 | Windows XP 以降
+| 制作者　 | 神楽坂柚
+| 作成日　 | 2013.10.18
+===============================================================================
+
+この度は「ゆず ポップ A」をダウンロードいただき、まことにありがとうございます。
+
+
+-------------------------------------------------------------------------------
+■概要
+
+当ソフトウェアはWindows用のTrueTypeフォントです。
+
+「ゆず ポップ A」はスタンダードな丸文字またはポップ体の一つとしてデザインしています。
+
+
+
+■インストール方法
+
+目的のフォントファイル（拡張子.ttf）を右クリックして表示されるメニューから
+インストールを選んでください。
+
+
+
+
+■アンインストール方法
+
+Windowsのフォントフォルダーから目的のフォントファイルを削除してください。
+
+詳しくはMicrosoftサポートをご覧ください。
+　Microsoftサポート：Windows でフォントをインストールまたは削除する方法
+　http://support.microsoft.com/kb/314960/ja
+
+
+
+
+■ゆずフォントシリーズ利用規約
+
+ゆずフォントシリーズはいわゆるフリーフォントです。
+規約の範囲内でご自由にお使いいただけます。
+
+
+１．フォントデータそのものの販売は禁止です。
+　　ただし、下記条件に基づいて当フォントシリーズを添付して販売する事が可能です。
+
+　　ａ．ゲーム等、プログラム内でフォントを使用する場合。
+　　ｂ．ゆずフォントシリーズを使用している旨を説明書等に明記してください。
+
+２．下記条件に基づいて当フォントシリーズを改変したものを再配布することが可能です。
+
+　　ａ．派生フォントは派生元となるフォントのライセンスを継承し、
+　　　　派生元フォントの名称を説明書等に明記してください。
+
+３．当フォントシリーズを使用したことによるいかなるトラブル、不利益に対し
+　　作者は責任を負わないものとします。
+
+４．著作権は神楽坂柚にあります。
+
+
+
+
+■ゆず ポップ A 収録文字範囲 ver.0.6
+
+JIS X 0208 を元に作成しています。
+
+現状では ASCII、半角カナ、全角アルファベット、全角数字、ひらがな、カタカナ、
+ギリシャ文字、ロシア文字、その他記号、第一水準漢字です。
+
+正式版では漢字は第二水準まで収録予定です。
+
+
+
+
+■寄付歓迎です
+
+フォントが気に入った方や、今後の発展にご期待くださる方など、
+なんとなーく寄付してみようかなー？という方。お待ちしております。
+
+何か特典を用意できるわけではありませんが、今後のフォント製作などに
+使用させていただくたくおもいます。
+
+送金用の↓ページはコチラ
+※商品名が「ゆず ペン字 N」となっていますが、フォント全般の寄付受付用です。
+http://www.vector.co.jp/soft/winnt/writing/se502907.html
+
+今後ともゆずフォントシリーズをご贔屓にしていただければ幸いです。
+
+
+
+
+■お問い合わせ先
+
+作者ブログの「お問い合わせ」フォームにて受け付けております。
+http://black-yuzunyan.lolipop.jp/
+
+
+
+
+■改定履歴
+
+2013.10.19 : version 0.6
+　ウェイト Regular、Light、Extra Light を追加。
+
+2013.10.18 : version 0.5
+　第一漢字まで収録。
+　名称を「ゆず ポップ A」に変更。
+　ウェイトをボールドに変更。
+
+2013.7.23 : version 0.02
+　β版公開。
+
+2013.7.13 : version 0.01
+　α版公開。（名称・丸字A）
+
+
+
+--------------------------------------------------------------------
+
+　神楽坂柚（かぐらざかゆず）
+
+　黒柚にゃんと有限世界の妖精たちのブログ
+　http://black-yuzunyan.lolipop.jp/
+
+--------------------------------------------------------------------
